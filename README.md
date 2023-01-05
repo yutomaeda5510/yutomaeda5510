@@ -1,7 +1,7 @@
 ### Hi there 👋
 ブログ:https://sunflower-blog.netlify.app
 
-日本百名山:https://famous-mountains-100-in-japan.web.app/
+日本百名山:https://www.famous-mountains-in-japan.com/
 
 <!--
 **yutomaeda5510/yutomaeda5510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
